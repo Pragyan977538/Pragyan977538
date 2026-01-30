@@ -12,7 +12,7 @@ I'm a passionate learner focused on the intersection of mathematics, economics, 
 - 📚 Learning **Discrete Mathematics, Digital Logic, and Optimization**
 - 💻 Tech Stack: **Python (NumPy, Pandas), C++, Digital Electronics**
 - 🏆 Competitive Programmer on **CodeForces**
-- ♟️ Interests: **Chess, Sudoku, and Audio Equipment**
+- ♟️ Interests: **Chess, and Audio Equipment**
 
 ---
 
