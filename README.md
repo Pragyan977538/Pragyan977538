@@ -8,11 +8,11 @@ I'm a passionate learner focused on the intersection of mathematics, economics, 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Econometrics and Regression Analysis**
-- 📚 Learning **Discrete Mathematics, Digital Logic, and Optimization**
-- 💻 Tech Stack: **Python (NumPy, Pandas), C++, Digital Electronics**
-- 🏆 Competitive Programmer on **CodeForces**
-- ♟️ Interests: **Chess, and Audio Equipment**
+- 🔭 Working on: **Linear Control Systems, BCI Signal Processing & ML Pipelines**
+- 📚 Exploring: **Theory of Computation, Computer Vision & Dynamic Systems**
+- 💻 Tech Stack: **C++, Python (NumPy, SciPy, OpenCV), Linux/WSL**
+- 🏆 Problem Solving: **Algorithms & Competitive Programming (Codeforces)**
+- ♟️ Passions: **Competitive Chess, Audiophile Gear & Mechanical Keyboards**
 
 ---
 
