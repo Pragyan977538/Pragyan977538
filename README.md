@@ -1,6 +1,6 @@
 # Hi there, I'm Pragyan Mohanty 👋
 
-### 🎓 2nd Year Undergraduate at IISER Bhopal
+### 🎓 3rd Year Undergraduate at IISER Bhopal
 **Quantitative Studies | Econometrics | Statistics | Computer Science**
 
 I'm a passionate learner focused on the intersection of mathematics, economics, and computing. I enjoy diving deep into intuitive explanations and rigorous mathematical proofs.
