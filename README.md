@@ -1,9 +1,9 @@
 # Hi there, I'm Pragyan Mohanty 👋
 
 ### 🎓 3rd Year Undergraduate at IISER Bhopal
-**Quantitative Studies | Econometrics | Statistics | Computer Science**
+**Quantitative Studies | Electonics / Hardware  | Statistics | Computer Science | Neuro-engineering**
 
-I'm a passionate learner focused on the intersection of mathematics, economics, and computing. I enjoy diving deep into intuitive explanations and rigorous mathematical proofs.
+I'm interested in Artificial Intelligence, Machine Learning, and Brain-Computer Interfaces. I enjoy exploring the mathematics behind these fields and applying computational ideas to real-world problems, particularly in neuroscience and intelligent systems.
 
 ---
 
@@ -13,6 +13,15 @@ I'm a passionate learner focused on the intersection of mathematics, economics, 
 - 💻 Tech Stack: **C++, Python (NumPy, SciPy, OpenCV), Linux/WSL**
 - 🏆 Problem Solving: **Algorithms & Competitive Programming (Codeforces)**
 - ♟️ Passions: **Competitive Chess, Audiophile Gear & Mechanical Keyboards**
+
+---
+
+### 🚀 About Me
+- 🔭 Working on: **Brain-Computer Interfaces, AI/ML & Intelligent Systems**
+- 📚 Exploring: **Signal Processing, Control Systems, Computer Vision & Deep Learning**
+- 💻 Tech Stack: **Python, C++, NumPy, SciPy, OpenCV, Linux**
+- 🧠 Interested in: **Computational Neuroscience, Mathematics & AI-driven Assistive Technologies**
+- ♟️ Beyond Tech: **Competitive Chess & Problem Solving**
 
 ---
 
@@ -37,10 +46,7 @@ I'm a passionate learner focused on the intersection of mathematics, economics, 
 
 ---
 
-### 🔥 My Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pragyan977538&theme=tokyonight)](https://git.io/streak-stats)
 
----
 
 ### 📫 Connect with Me
 <p align="left">
