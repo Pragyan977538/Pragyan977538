@@ -23,7 +23,7 @@ I'm interested in Artificial Intelligence, Machine Learning, and Brain-Computer 
 </a>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pragyan977538&show_icons=true&theme=tokyonight" />
@@ -32,7 +32,10 @@ I'm interested in Artificial Intelligence, Machine Learning, and Brain-Computer 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyan977538&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </a>
 
+
 ---
+-->
+
 
 ### 📫 Connect with Me
 <a href="mailto:pragyanmohanty977851.538@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
